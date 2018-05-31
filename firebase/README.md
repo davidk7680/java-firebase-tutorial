@@ -19,3 +19,13 @@ dependencies {
     implementation 'com.twitter.sdk.android:twitter-core:3.x'  
 }
 ```
+
+### Realtime Database
+For the Realtime Database you need to first install the firebase SDK 
+```
+FirebaseDatabase database = FirebaseDatabase.getInstance();
+DatabaseReference msg = database.getReference("message");
+
+msg.setValue("Hello, World!");
+```  
+The .getInstance method gets the specific message from the database that was put in
