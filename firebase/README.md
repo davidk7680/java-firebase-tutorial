@@ -12,3 +12,10 @@ dependencies{
     implementation 'com.facebook.android:facebook-android-sdk:4.x'
 }
 ```
+However for authenticating using say twitter, you would need to use a different SDK
+```
+dependencies {
+    implementation 'com.firebaseui:firebase-ui-auth:4.0.0'  
+    implementation 'com.twitter.sdk.android:twitter-core:3.x'  
+}
+```
