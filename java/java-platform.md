@@ -4,4 +4,4 @@ Java is basically a platform because it is able to run a program using the innat
 ### GUI
 
 What is a _GUI_? A GUI is a Graphical User Interface  
-![Graphical User Interface](gui.png)
+![Graphical User Interface](gui.PNG)
