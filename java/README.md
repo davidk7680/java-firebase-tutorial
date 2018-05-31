@@ -6,7 +6,7 @@ Learn more by going through the different sections of Java.
 [Syntax](syntax.md)  
 [Java Platform](java-platform.md)
 
-
+Java is a very large language with multiple different with many different 
 
 Here are some of the reasources that I used when creating this tutorial.
 
