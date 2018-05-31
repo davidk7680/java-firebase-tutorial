@@ -1,7 +1,7 @@
 # _Writing Java on a Java platform???_  
 Java is basically a platform because it is able to run a program using the innate ability of its JVM Java Virtual Machine
 ![JVM](jvm.png)  
-The diagram above is a representation of the JVM 
+The diagram above is a representation of the JVM. The Java Virtual Machine is what makes all the magic happen by having the program compiled so that the computer can read the program. After that the program goes through the processor and executes the program on the computer. 
 
 ### GUI
 
