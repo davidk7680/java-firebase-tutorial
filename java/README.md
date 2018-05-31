@@ -2,8 +2,8 @@
 
 _Java_ is a very 'simple' language according to people and I agree. Java is definitely much more simplier than what you would have to do without it. Having the ability to compile your code that is compatible to all electronic devices is so much faster than what people had to do before. 
 
-Learn more by going through the different sections of Java.
-[Syntax](syntax.md)
+Learn more by going through the different sections of Java.  
+[Syntax](syntax.md)  
 [Java Platform](java-platform.md)
 
 

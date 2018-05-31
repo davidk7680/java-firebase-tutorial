@@ -12,3 +12,14 @@ boolean - true or false
 char - a single character, like 'A' or '$'  
 #### Operators:
 There are many operators used such as +,-,*,/,%,>,<,= that can be used in boolean expressions.
+
+#### Loops:
+
+How to create  a for loop using continue.
+```
+for (int i = 1; i <= 20; i++) {
+    if (i % 2 == 0) continue;
+    System.out.println(i);
+}
+```
+Continue is unique for java. It allows the programmer to not worry about extra calculations that the programmer else has to do themeselve.
