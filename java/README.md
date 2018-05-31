@@ -2,23 +2,9 @@
 
 _Java_ is a very 'simple' language according to people and I agree. Java is definitely much more simplier than what you would have to do without it. Having the ability to compile your code that is compatible to all electronic devices is so much faster than what people had to do before. 
 
-### _Syntax:_  
-#### Variables:  
-Variables are seperated into types that are in different lengths, because when you compile the code the computer has to read it in bytecode.
-They are:
-byte - 8-bit integer  
-short - 16-bit integer  
-int - 32-bit integer  
-long - 64-bit integer  
-float - 32-bit floating point number  
-double - 64-bit floating point number  
-boolean - true or false  
-char - a single character, like 'A' or '$'  
-#### Operators:
-There are many operators used such as +,-,*,/,%,>,<,= that can be used in boolean expressions.
-
-### _Writing Java on a Java platform???_  
-Java is basically a platform because it is able to run a program using the innate ability of its JVM Java Virtual Machine 
+Learn more by going through the different sections of Java.
+[Syntax](syntax.md)
+[Java Platform](java-platform.md)
 
 
 
