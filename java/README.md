@@ -12,7 +12,7 @@ Here are some of the reasources that I used when creating this tutorial.
 
 [Learning code at codecademy](codecademy.com)
 
-3 tutorials on the basics of Java programming on `Youtube`  
+3 tutorials on the basics of Java programming on ['Youtube'](https://www.youtube.com/)  
 https://www.youtube.com/watch?v=WPvGqX-TXP0  
 https://www.youtube.com/watch?v=uWYPVz_i7W4  
 https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28&index=1  
